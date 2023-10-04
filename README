@@ -1,0 +1,2 @@
+Thread-safe Java multithreaded applications:
+Banking application that uses conditions and locks to ensure thread safety, practice designing programs that take advantage of multiple threads without losing data integrity, where one thread deposits money and another thread withdraws money from an account.
